@@ -1,0 +1,5 @@
+{
+  "name": "Employee Time Clock",
+  "description": "A modern and simple web application for employees to stamp their time in and out. Users can select their company and manage their timestamps easily.",
+  "requestFramePermissions": []
+}
